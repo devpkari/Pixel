@@ -1,4 +1,4 @@
-# Loop
+# Pixel
 In the landscape of web development, the translation of visual representations of HTML structures, such as wireframes or mockups, into actual HTML code is a crucial yet time-consuming task. This project aims to revolutionize this process by developing an advanced AI/ML model capable of automatically converting HTML diagrams represented in image format into corresponding HTML code.
 
 The Challenge:
